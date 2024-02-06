@@ -27,7 +27,7 @@ I’m currently working as an Application Physicist at Innovative Physics, where
 - **Languages:** Python, M Query, C++
 - **Skills:** Data Science and Analytics, Business Analysis, Statistical Modelling, Geant4
 
-~~~~~~ fill out below stuff ~~~~~~~
+---------- fill out below stuff --------
 
 ## Projects I'm Currently Working On
 ### [Project 1](link)
@@ -42,4 +42,4 @@ Overview
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMacleod112&layout=compact&theme=radical)](https://github.com/MichaelMacleod112)
 
 ## Let's Connect!
-- LinkedIn: [Michael Macleod](link)
+- LinkedIn: [Michael Macleod](https://www.linkedin.com/in/michael-macleod-943418161/)
