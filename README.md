@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on my PL-300 Power BI certification
+- 🌱 I’m currently learning Deep Learning Methods using Tensorflow 2.0 on Udemy!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,11 +17,17 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Michael
 
 ## About Me
-lorem ipsum 
+I recently completed AI Core’s Data Analytics bootcamp and am looking to get more into this field. I really enjoy problem solving and building cool things, so watch this space!
+
+I’m currently learning Deep Learning Methods using Tensorflow 2.0 on Udemy! I’ve also got React Native and Javascript on my bucket list for this year, once my Python skills are top notch.
+
+I’m currently working as an Application Physicist at Innovative Physics, where I build and run physics simulations to help develop experimental radiation detection equipment. I also work in a team developing updated calibration scripts in python to get gamma cameras working. You can take a look at some of these models on my personal page, but the business sensitive stuff is hidden, sorry!
 
 ## Skills and Languages
-- **Languages:** Python, C++, ...
-- **Skills:** 
+- **Languages:** Python, M Query, C++
+- **Skills:** Data Science and Analytics, Business Analysis, Statistical Modelling, Geant4
+
+~~~~~~ fill out below stuff ~~~~~~~
 
 ## Projects I'm Currently Working On
 ### [Project 1](link)
@@ -36,8 +42,4 @@ Overview
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMacleod112&layout=compact&theme=radical)](https://github.com/MichaelMacleod112)
 
 ## Let's Connect!
-- LinkedIn: [Profile](link)
-
-
-## Play the Snake Game!
-[![Snake Game](https://github.com/yourusername/MichaelMacleod112/blob/output/github-contribution-grid-snake.svg)](https://github.com/MichaelMacleod112)
+- LinkedIn: [Michael Macleod](link)
