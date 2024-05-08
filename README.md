@@ -33,9 +33,6 @@ I’m currently working as an Application Physicist at Innovative Physics, where
 ### Detect and Locate Model
 Geant4 project to model the angular response of four scintillator detectors in various configurations. Simulates gamma and x-ray physics, with events generated from a radioactive source moved around the environment.
 
-### Financial Data Modelling
-Accesses past financial data using Alpha Vantage’s API for analysis and potential predictive modelling using RNNs. 
-
 
 ## Badges and GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMacleod112&show_icons=true&theme=radical)](https://github.com/MichaelMacleod112)
